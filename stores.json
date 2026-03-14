@@ -1,0 +1,137 @@
+[
+  {
+    "id": "s1",
+    "name": "Velvet & Vine",
+    "category": "Fashion",
+    "description": "Premium boutique offering curated luxury apparel and accessories.",
+    "hours": "10:00 AM - 9:00 PM",
+    "pos": { "x": 100, "y": 100, "w": 120, "h": 80 },
+    "floor": 1
+  },
+  {
+    "id": "s2",
+    "name": "The Tech Hub",
+    "category": "Electronics",
+    "description": "Your destination for the latest gadgets, smartphones, and home automation.",
+    "hours": "10:00 AM - 9:00 PM",
+    "pos": { "x": 230, "y": 100, "w": 100, "h": 80 },
+    "floor": 1
+  },
+  {
+    "id": "s3",
+    "name": "Azure Bistro",
+    "category": "Food & Dining",
+    "description": "Modern Mediterranean cuisine in a relaxed, elegant setting.",
+    "hours": "11:00 AM - 10:00 PM",
+    "pos": { "x": 340, "y": 100, "w": 140, "h": 80 },
+    "floor": 1
+  },
+  {
+    "id": "s4",
+    "name": "Lumina Beauty",
+    "category": "Beauty & Wellness",
+    "description": "Premium skincare and cosmetics from world-renowned brands.",
+    "hours": "10:00 AM - 9:00 PM",
+    "pos": { "x": 490, "y": 100, "w": 90, "h": 80 },
+    "floor": 1
+  },
+  {
+    "id": "s5",
+    "name": "Nova Cinema",
+    "category": "Entertainment",
+    "description": "State-of-the-art cinematic experience with reclining seats.",
+    "hours": "12:00 PM - 12:00 AM",
+    "pos": { "x": 100, "y": 190, "w": 180, "h": 120 },
+    "floor": 1
+  },
+  {
+    "id": "s6",
+    "name": "Urban Sole",
+    "category": "Fashion",
+    "description": "Contemporary footwear for the modern urban explorer.",
+    "hours": "10:00 AM - 9:00 PM",
+    "pos": { "x": 290, "y": 190, "w": 100, "h": 80 },
+    "floor": 1
+  },
+  {
+    "id": "s7",
+    "name": "Game On",
+    "category": "Entertainment",
+    "description": "The ultimate gaming lounge and hobby store.",
+    "hours": "10:00 AM - 10:00 PM",
+    "pos": { "x": 400, "y": 190, "w": 110, "h": 80 },
+    "floor": 1
+  },
+  {
+    "id": "s8",
+    "name": "Pure Juice Co.",
+    "category": "Food & Dining",
+    "description": "Freshly squeezed juices and organic smoothie bowls.",
+    "hours": "9:00 AM - 8:00 PM",
+    "pos": { "x": 520, "y": 190, "w": 60, "h": 60 },
+    "floor": 1
+  },
+  {
+    "id": "s9",
+    "name": "Style & Co.",
+    "category": "Fashion",
+    "description": "Affordable and trendy fashion for all ages.",
+    "hours": "10:00 AM - 9:00 PM",
+    "pos": { "x": 100, "y": 320, "w": 120, "h": 100 },
+    "floor": 1
+  },
+  {
+    "id": "s10",
+    "name": "Digital Dreams",
+    "category": "Electronics",
+    "description": "Expert repair services and niche electronic components.",
+    "hours": "10:00 AM - 8:00 PM",
+    "pos": { "x": 230, "y": 320, "w": 90, "h": 80 },
+    "floor": 1
+  },
+  {
+    "id": "s11",
+    "name": "Zen Wellness",
+    "category": "Beauty & Wellness",
+    "description": "Holistic spa treatments and meditation accessories.",
+    "hours": "10:00 AM - 9:00 PM",
+    "pos": { "x": 330, "y": 320, "w": 100, "h": 100 },
+    "floor": 1
+  },
+  {
+    "id": "s12",
+    "name": "Brew & Bean",
+    "category": "Food & Dining",
+    "description": "Artisanal coffee and freshly baked pastries.",
+    "hours": "8:00 AM - 9:00 PM",
+    "pos": { "x": 440, "y": 320, "w": 140, "h": 100 },
+    "floor": 1
+  },
+  {
+    "id": "s13",
+    "name": "Moda Menswear",
+    "category": "Fashion",
+    "description": "Tailored suits and contemporary casual wear for men.",
+    "hours": "10:00 AM - 9:00 PM",
+    "pos": { "x": 100, "y": 430, "w": 150, "h": 80 },
+    "floor": 1
+  },
+  {
+    "id": "s14",
+    "name": "Toy Galaxy",
+    "category": "Entertainment",
+    "description": "A magical world of toys and games for children of all ages.",
+    "hours": "10:00 AM - 9:00 PM",
+    "pos": { "x": 260, "y": 430, "w": 120, "h": 80 },
+    "floor": 1
+  },
+  {
+    "id": "s15",
+    "name": "Savor Sushi",
+    "category": "Food & Dining",
+    "description": "Authentic Japanese sushi and sashimi prepared fresh.",
+    "hours": "11:30 AM - 9:30 PM",
+    "pos": { "x": 390, "y": 430, "w": 190, "h": 80 },
+    "floor": 1
+  }
+]
